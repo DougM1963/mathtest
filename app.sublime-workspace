@@ -1,0 +1,274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Doug Meador/Desktop/code/mathtest/mathprogram.rb",
+		"/C/Users/Doug Meador/Desktop/code/mathtest/test.rb",
+		"/C/Users/Doug Meador/Desktop/code/testing template",
+		"/C/Users/Doug Meador/Desktop/code/coinchanger/coinchanger.rb",
+		"/C/Users/Doug Meador/Desktop/code/coinchanger/coinchangertest.rb",
+		"/C/Users/Doug Meador/Desktop/code/coin-changer/coin_changer.rb",
+		"/C/Users/Doug Meador/Desktop/code/FizzBuzz/fizzbuzz.rb",
+		"/C/Users/Doug Meador/Desktop/code/isbn/isbn.rb",
+		"/C/Users/Doug Meador/Desktop/code/encoder_decoder/encoder2.rb",
+		"/C/Users/Doug Meador/Desktop/code/encoder_decoder/encoder.rb",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/app.rb",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/views/home.erb",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/views/show_sandwich.erb",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/views/show_side.erb",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/views/show_drink.erb",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/views/pmt.erb",
+		"/C/Users/Doug Meador/Desktop/code/pizza_order/views/crust_type.erb",
+		"/C/Users/Doug Meador/Desktop/code/pizza_order/app.rb",
+		"/C/Users/Doug Meador/Desktop/code/pizza_order/views/final_order.erb",
+		"/C/Users/Doug Meador/Desktop/code/pizza_order/Procfile",
+		"/C/Users/Doug Meador/Desktop/code/pizza_order/Gemfile.lock",
+		"/C/Users/Doug Meador/Desktop/code/pizza_order/Gemfile",
+		"/C/Users/Doug Meador/Desktop/code/pizza_order/public/css/style.css",
+		"/C/Users/Doug Meador/Desktop/code/pizza_order/views/toppings.erb",
+		"/C/Users/Doug Meador/Desktop/code/pizza_order/views/pizza_type.erb",
+		"/C/Users/Doug Meador/Desktop/code/pizza_order/views/welcome.erb",
+		"/C/Users/Doug Meador/Desktop/code/pizza_order/views/first_name.erb",
+		"/C/Users/Doug Meador/Desktop/code/pizza_order/views/name.erb",
+		"/C/Users/Doug Meador/Desktop/code/hangman/hangman.rb",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/public/css/style.css",
+		"/C/Users/Doug Meador/Desktop/code/html/html.html",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/public/css/mystyle.css",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/fullblown.erb",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/about.erb",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/views/family.erb",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/views/pictures.erb",
+		"/C/Users/Doug Meador/Desktop/code/first-sinatra/views/html.erb",
+		"/C/Users/Doug Meador/Desktop/code/christiencoder.rb",
+		"/C/Users/Doug Meador/Desktop/code/chris.html",
+		"/C/Users/Doug Meador/Desktop/code/hangman/chris.rb",
+		"/C/Users/Doug Meador/Desktop/code/hangtest.rb",
+		"/C/Users/Doug Meador/Desktop/code/hangmantest.rb",
+		"/C/Users/Doug Meador/Desktop/code/testing/adde_test.rb",
+		"/C/Users/Doug Meador/Desktop/code/testing/adde.rb",
+		"/C/Users/Doug Meador/Desktop/code/testing/math_to_test.rb",
+		"/C/Users/Doug Meador/Desktop/code/testing/math.rb",
+		"/C/Users/Doug Meador/Desktop/code/testing/encoder_to_test.rb",
+		"/C/Users/Doug Meador/Desktop/code/testing/encoder_test.rb",
+		"/C/Users/Doug Meador/Desktop/code/testing/program_to_test.rb",
+		"/C/Users/Doug Meador/Desktop/code/testing/test.rb",
+		"/C/Users/Doug Meador/Desktop/code/jimencoder.rb",
+		"/C/Users/Doug Meador/Desktop/code/ttttest.rb",
+		"/C/Users/Doug Meador/Desktop/code/tictactoe.rb",
+		"/C/Users/Doug Meador/Desktop/Snippet pictures/tylerencoder.PNG",
+		"/C/Users/Doug Meador/Desktop/code/encodertest.rb",
+		"/C/Users/Doug Meador/Desktop/code/tylercoin.rb",
+		"/C/Users/Doug Meador/Desktop/code/isbn2.rb",
+		"/C/Users/Doug Meador/Desktop/code/isbn3.rb",
+		"/C/Users/Doug Meador/Desktop/code/isbn.rb",
+		"/C/Users/Doug Meador/Desktop/code/coin1.rb",
+		"/C/Users/Doug Meador/Desktop/code/jimcoin.rb",
+		"/C/Users/Doug Meador/Desktop/code/coin_changer5.rb",
+		"/C/Users/Doug Meador/Desktop/code/coin_changer4.rb",
+		"/C/Users/Doug Meador/Desktop/code/coin_changer3.rb",
+		"/C/Users/Doug Meador/Desktop/code/coin_changer2.rb",
+		"/C/Users/Doug Meador/Desktop/code/coin.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex40.rb",
+		"/C/Users/Doug Meador/Desktop/code/encoder_test.rb",
+		"/C/Users/Doug Meador/Desktop/code/test#.rb",
+		"/C/Users/Doug Meador/Desktop/code/arraytest.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex21.rb",
+		"/C/Users/Doug Meador/Desktop/code/test.txt",
+		"/C/Users/Doug Meador/Desktop/code/secrete_code.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex19.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex20.rb",
+		"/C/Users/Doug Meador/Desktop/code/test2.txt",
+		"/C/Users/Doug Meador/Desktop/code/ex18.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex17.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex16_sample.txt",
+		"/C/Users/Doug Meador/Desktop/code/ex16.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex20x.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex16_sample.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex1.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex2.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex3.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex4.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex5.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex6.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex7.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex8.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex9.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex10.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex11.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex12.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex13.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex15.rb",
+		"/C/Users/Doug Meador/Desktop/code/ex14.rb",
+		"/C/Users/Doug Meador/Desktop/code/test1.txt",
+		"/C/Users/Doug Meador/Desktop/code/ex15_sample.txt",
+		"/C/Users/Doug Meador/Desktop/code/fizzbuzztest.rb",
+		"/C/Users/Doug Meador/Desktop/code/randomizer2/randomizer2.rb",
+		"/C/Users/Doug Meador/Desktop/code/randomizer/randomizer/randomizer.rb",
+		"/C/Users/Doug Meador/Desktop/code/randomizer2/README.md",
+		"/C/Users/Doug Meador/Desktop/code/dougfirst.rb",
+		"/C/Users/Doug Meador/Desktop/code/count_chickens.rb",
+		"/D/code/function_examples.rb",
+		"/D/code/array.rb",
+		"/D/code/ex15.rb",
+		"/D/code/ex14.rb",
+		"/D/code/dougfirst.rb"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 77.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 490.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
