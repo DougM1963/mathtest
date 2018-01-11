@@ -1,11 +1,20 @@
+<head>
+<title>Doug`s Math Program</title>
+<link href="<%= url('/css/style.css') %>" rel="stylesheet" type="text/css" />
+</head>
+<body>
 <center>
-Welcome to Doug`s Math program
+<div class="title">
+Welcome to Doug`s Math Program
+</div>
 <br>
 <br>
-<img alt="math" src="/img/math.jpg" width="400" height="300" />
+<img alt="math" src="/img/math_logo.png" width="400" height="300" />
 <br>
 <br>
-What type of math would you like to do? (addition, subtraction, multiplication, division)
+<div class="text">
+What type of math would you like to do?
+<br>(addition, subtraction, multiplication, division)
 <br>
 <form method="post" action="math">
 	<input type="text" name="math_type">
@@ -19,3 +28,7 @@ What numbers do you want to use?
 	<br>
 	<input type="submit">
 </form>
+</div>
+</center>
+</head>
+</body>

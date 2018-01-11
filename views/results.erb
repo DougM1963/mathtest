@@ -1,0 +1,35 @@
+<head>
+<title>Doug`s Math Program</title>
+<link href="<%= url('/css/style.css') %>" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<center>
+	<img alt="math" src="/img/math_logo.png" width="400" height="300" />
+	<br>
+<div class="title">	
+So you want to do <%= result %> 
+
+<% first_number = p1.to_i %>
+<% second_number = p2.to_i %>
+
+<% 
+if result == "addition"
+	final_result = addition(first_number, second_number)
+	elsif result == "subtraction"
+	final_result = subtraction(first_number, second_number) 
+	elsif result == "multiplication"
+	final_result = multiplication(first_number, second_number)
+	elsif result == "division"	
+	final_result = division(first_number, second_number)
+	else
+		final_result = "This is not one of the choices"
+	end
+%>
+<br>
+<br>
+<img alt="math" src="/img/math12345.jpg" width="300" height="200" />
+<br>
+Your results are <%= final_result %>
+</div>
+</center>
+</body>
